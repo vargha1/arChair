@@ -5,14 +5,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AR Chair</title>
-    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/3.5.0/model-viewer.min.js"></script>
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <img src="almubdi.png" alt="logo">
-    <model-viewer id="ar" modes="scene-viewer quick-look webxr" src="./dental_chair.glb" ar
-        shadow-intensity="1" camera-controls touch-action="pan-y">
+    <model-viewer id="ar" modes="scene-viewer quick-look webxr" src="./dental_chair.glb" ar shadow-intensity="1"
+        camera-controls touch-action="pan-y">
         <button slot="ar-button" id="ar-button">
             View AR
         </button>
