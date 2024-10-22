@@ -1,6 +1,5 @@
 body {
     display: flex;
-    flex-direction: column;
     width: 100%;
     height: 100svh;
     justify-content: center;
@@ -15,6 +14,10 @@ img {
     width: 32px;
 }
 #ar{
+    width: 100%;
+    height: 100%;
+}
+#ar2{
     width: 100%;
     height: 100%;
 }

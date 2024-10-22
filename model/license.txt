@@ -1,11 +1,11 @@
 Model Information:
-* title:	dental chair
-* source:	https://sketchfab.com/3d-models/dental-chair-b2d9170842c24100b432d26fe0df442c
-* author:	lena_vl (https://sketchfab.com/lena_vl)
+* title:	Dental Chair
+* source:	https://sketchfab.com/3d-models/dental-chair-140a9e6ff9e24a0cac1065fc9ea9797d
+* author:	neilken (https://sketchfab.com/neilken)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "dental chair" (https://sketchfab.com/3d-models/dental-chair-b2d9170842c24100b432d26fe0df442c) by lena_vl (https://sketchfab.com/lena_vl) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Dental Chair" (https://sketchfab.com/3d-models/dental-chair-140a9e6ff9e24a0cac1065fc9ea9797d) by neilken (https://sketchfab.com/neilken) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
